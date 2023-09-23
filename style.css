@@ -1,0 +1,22 @@
+body {
+    background-image: url("https://wallpaperbat.com/img/65943-beautiful-dark-landscape-wallpaper-top-free-beautiful-dark.jpg");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .loginpage {
+    background-color: rgba(46, 44, 44, 0.5);
+    backdrop-filter: blur(1px);
+    width: 300px;
+    height: 150px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 50%;
+  }
+  
+  h1 {
+    font-family: "Lucida Handwriting", cursive;
+  }
+ 
